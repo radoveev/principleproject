@@ -1,3 +1,7 @@
 [submodule "pythonsrc"]
 	path = pythonsrc
 	url = git@github.com:radoveev/pyprinciple.git
+[submodule "interpreter"]
+	path = interpreter
+	url = git@github.com:radoveev/SimpleLauncher.git
+	branch = ilprinciple-launcher
